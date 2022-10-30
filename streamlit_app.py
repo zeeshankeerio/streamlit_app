@@ -1,6 +1,6 @@
 import streamlit
 streamlit.title('ZEESHAN KEERIO')
-streamlit.text(<b>'About'</b>)
+streamlit.header(<'About')
 streamlit.text(''' I love to dig into data analytics problems, solve them with modern technologies, create new ideas, and translate business requirements into technical solutions. To accomplish this, I focus on delivering key outcomes, building possible analytical solutions, and quickly adapting to new learnings. 
 I have enjoyed many machine learning, live data integration, prescriptive analytics, and business analytics problems throughout my career. My Freelancing and professional experiences have taught me the following about myself:
 Multi tasking, working under pressure, performing data modeling, diagnostics on existing reports, developing data solutions, scaling, visualizing, transforming big-time series data, building ml models, and optimizing business problems that matter. 
